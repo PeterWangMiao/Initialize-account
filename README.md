@@ -1,1 +1,1 @@
-This is a empty  repositories to Initialize my account.
+This is a empty  repository to Initialize my account.
